@@ -1,0 +1,187 @@
+{
+  "register": [
+    {
+      "id": "1",
+      "username": "sdfsdf",
+      "sdt": "3243264634",
+      "email": "sgsdg@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "gender": "male"
+    },
+    {
+      "id": "2",
+      "username": "minh",
+      "sdt": "1234567890",
+      "email": "vinhbaominh04102003@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "gender": "male"
+    },
+    {
+      "username": "react",
+      "sdt": "0123456789",
+      "email": "tuyendung@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "gender": "male",
+      "id": "3"
+    },
+    {
+      "username": "Vinh",
+      "sdt": "0965542665",
+      "email": "Win@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "gender": "female",
+      "id": "4"
+    },
+    {
+      "username": "TopCv",
+      "sdt": "1234567890",
+      "email": "TopCv@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "gender": "male",
+      "id": "5"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "nammeproduct": "Khuyến mãi - Victo rose - 15234",
+      "img": "/km1.jpg",
+      "price": "250.000",
+      "discount": "300.000 đ"
+    }
+  ],
+  "cart": [],
+  "order": [
+    {
+      "name": "Vĩnh Bảo Minh",
+      "phone": "0756868868",
+      "address": "q9",
+      "email": "vinhbaominh04102003@gmail.com",
+      "items": [
+        {
+          "id": 1,
+          "nammeproduct": "Khuyến mãi - Victo rose - 15234",
+          "img": "/km1.jpg",
+          "price": "250.000",
+          "discount": "300.000 đ",
+          "quantity": 3,
+          "totalPrice": "750.000"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Vĩnh Bảo Minh",
+      "phone": "0756868868",
+      "address": "q9",
+      "email": "vinhbaominh04102003@gmail.com",
+      "items": [
+        {
+          "id": 1,
+          "nammeproduct": "Khuyến mãi - Victo rose - 15234",
+          "img": "/km1.jpg",
+          "price": "250.000",
+          "discount": "300.000 đ",
+          "quantity": 1,
+          "totalPrice": "250.000"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Vĩnh Bảo Minh",
+      "phone": "0756868868",
+      "address": "q9",
+      "email": "vinhbaominh04102003@gmail.com",
+      "items": [
+        {
+          "id": 1,
+          "nammeproduct": "Khuyến mãi - Victo rose - 15234",
+          "img": "/km1.jpg",
+          "price": "250.000",
+          "discount": "300.000 đ",
+          "quantity": 1,
+          "totalPrice": "250.000"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Vĩnh Bảo Minh",
+      "phone": "0756868868",
+      "address": "q9",
+      "email": "vinhbaominh04102003@gmail.com",
+      "items": [
+        {
+          "id": 1,
+          "nammeproduct": "Khuyến mãi - Victo rose - 15234",
+          "img": "/km1.jpg",
+          "price": "250.000",
+          "discount": "300.000 đ",
+          "quantity": 1,
+          "totalPrice": "250.000"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Vĩnh Bảo Minh",
+      "phone": "0756868868",
+      "address": "q9",
+      "email": "vinhbaominh04102003@gmail.com",
+      "items": [
+        {
+          "id": 1,
+          "nammeproduct": "Khuyến mãi - Victo rose - 15234",
+          "img": "/km1.jpg",
+          "price": "250.000",
+          "discount": "300.000 đ",
+          "quantity": 1,
+          "totalPrice": "250.000"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "Vĩnh Bảo Minh",
+      "phone": "0326119340",
+      "address": "q9",
+      "email": "vinhbaominh04102003@gmail.com",
+      "items": [
+        {
+          "id": 1,
+          "nammeproduct": "Khuyến mãi - Victo rose - 15234",
+          "img": "/km1.jpg",
+          "price": "250.000",
+          "discount": "300.000 đ",
+          "quantity": 1,
+          "totalPrice": "250.000"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "TopCv",
+      "phone": "1234567890",
+      "address": "TopCv",
+      "email": "TopCv@gmail.com",
+      "items": [
+        {
+          "id": 1,
+          "nammeproduct": "Khuyến mãi - Victo rose - 15234",
+          "img": "/km1.jpg",
+          "price": "250.000",
+          "discount": "300.000 đ",
+          "quantity": 3,
+          "totalPrice": "750.000"
+        }
+      ],
+      "id": 7
+    }
+  ]
+}
