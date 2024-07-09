@@ -1,3 +1,11 @@
+### link tải code từ git :
+
+`git clone `
+
+### cài thư mục node modul khi tải code từ git
+
+`npm install`
+
 ### tải node từ trang chủ node 
 
 `https://github.com/MinhBao2003/React-BH-Express.git`
