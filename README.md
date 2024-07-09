@@ -2,7 +2,7 @@
 
 `git clone https://github.com/MinhBao2003/Node-Express-react-BH.git `
 
-### Cài thư mục node modul khi tải code từ git
+### Cài thư mục node modul khi tải code từ git nếu ko có thư mục node modul
 
 `npm install`
 
