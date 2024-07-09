@@ -1,23 +1,23 @@
-### link tải code từ git 
+### Link tải code từ git 
 
 `git clone https://github.com/MinhBao2003/Node-Express-react-BH.git `
 
-### cài thư mục node modul khi tải code từ git
+### Cài thư mục node modul khi tải code từ git
 
 `npm install`
 
-### tải node từ trang chủ node 
+### Tải node từ trang chủ node 
 
 `https://github.com/MinhBao2003/React-BH-Express.git`
 
-### cài json server 
+### Cài json server 
 
 `npm install -g json-server`
 
-### hoặc cài từ trang chủ node 
+### Hoặc cài từ trang chủ node 
 
 `https://www.npmjs.com/package/json-server/v/0.17.4`
 
-### chạy data node (express)
+### Chạy data node (express)
 
 `json-server data.json`
