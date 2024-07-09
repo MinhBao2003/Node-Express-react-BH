@@ -1,6 +1,6 @@
-### link tải code từ git :
+### link tải code từ git 
 
-`git clone `
+`git clone https://github.com/MinhBao2003/Node-Express-react-BH.git `
 
 ### cài thư mục node modul khi tải code từ git
 
